@@ -1,3 +1,2 @@
-udateding some info...in thsi file 
 trying to learn devops program..
 this is db files contains data bricks infromation ...
